@@ -80,22 +80,76 @@ Segurança digital
 
 Empresas buscam profissionais capazes de resolver problemas complexos e se adaptar rapidamente.
 
-#🔹 Carreiras mais promissoras
-1. Engenharia de Inteligência Artificial
-Desenvolvimento de modelos de IA
-Uso de Python, Machine Learning e Deep Learning
-Alta demanda e salários elevados
+# 🚀 Carreiras mais promissoras:
 
-2. DevOps
-Integração entre desenvolvimento e operações
-Automação de processos
-Ferramentas: Docker, Kubernetes, CI/CD
+ # 🤖 Engenharia de Inteligência Artificial
 
-3. Segurança da Informação (Cybersecurity)
-Proteção de dados e sistemas
-Alta demanda global
-Crescimento contínuo devido a ataques cibernéticos
+🔹 Desenvolvimento de modelos de IA
 
-4. Engenharia de Dados
-Manipulação e análise de grandes volumes de dados
-Uso de SQL, Python e ferramentas de Big Data
+🔹 Uso de Python, Machine Learning e Deep Learning
+
+🔹 Alta demanda e salários elevados
+
+  # 👨‍💻 DevOps
+
+ 🔹 Integração entre desenvolvimento e operações
+ 
+ 🔹 Automação de processos
+ 
+ 🔹 Ferramentas: Docker, Kubernetes, CI/CD
+
+ # 🔒 Segurança da Informação (Cybersecurity)
+ 
+  🔹 Proteção de dados e sistemas
+
+  🔹 Alta demanda global
+
+  🔹 Crescimento contínuo devido a ataques cibernéticos
+
+  # 💾 Engenharia de Dados
+ 
+ 🔹 Manipulação e análise de grandes volumes de dados
+  
+ 🔹 Uso de SQL, Python e ferramentas de Big Data
+
+ # 📖 Glossário
+  - DevOps: Integração entre desenvolvimento e operações para entrega contínua de software
+  
+  - Machine Learning: Técnica onde máquinas aprendem com dados
+  
+  - Cloud Computing: Uso de servidores remotos via internet
+  
+  - Cybersecurity: Proteção de sistemas e dados contra ataques
+  
+  - Big Data: Grandes volumes de dados processados para gerar insights
+
+
+   # 🧩 Prompts Reutilizáveis
+  
+  "Explique [carreira] de forma simples e prática"
+ 
+  "Quais habilidades preciso para começar em [área]?"
+ 
+  "Crie um plano de estudos para [carreira]"
+ 
+  "Quais são os erros comuns ao iniciar em [área]?"
+ 
+  "Compare [carreira A] vs [carreira B] para iniciantes"
+
+  # 📌 Aplicação Prática
+
+Este estudo permite:
+
+ - Escolher uma área da tecnologia com mais segurança
+ 
+ - Direcionar estudos de forma estratégica
+ 
+ - Evitar perda de tempo com conteúdos irrelevantes
+ 
+ - Utilizar IA como acelerador de aprendizagem
+
+ #  ✅ Conclusão
+
+A Inteligência Artificial se mostrou uma ferramenta poderosa para organização e aprofundamento do conhecimento. Mais do que obter respostas, o uso estratégico de prompts permitiu desenvolver pensamento crítico e autonomia nos estudos.
+
+O mercado de tecnologia em 2026 será altamente competitivo, porém repleto de oportunidades para profissionais preparados e adaptáveis.
