@@ -1,1 +1,1 @@
-# mini-guia-notebooklm
+# estudos-notebooklm
