@@ -3,7 +3,7 @@
 # 🎯 Objetivo
 Este projeto tem como objetivo explorar o uso da Inteligência Artificial como ferramenta de aprendizagem ativa, utilizando o NotebookLM para organizar, analisar e sintetizar conteúdos sobre:
 
-# >> Carreiras promissoras na área de Tecnologia em 2026 <<
+# > Carreiras promissoras na área de Tecnologia em 2026 <
 
 # 💡 Motivação
 A proposta é desenvolver:
