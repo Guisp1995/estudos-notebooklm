@@ -12,7 +12,7 @@ A proposta é desenvolver:
 - Uso estratégico de IA
 - Organização de conhecimento técnico
 - Ampliar a visão de mercado
-- Se manter atualizado a novas tendências
-- Não ficar de fora de novas tecnologias
+- Se manter atualizado a novas tendências e tecnologias
+- Identificar habilidades mais valorizadas
 
 Além disso, o projeto simula um cenário real de estudo estruturado com apoio de IA e com fontes confiáveis.
